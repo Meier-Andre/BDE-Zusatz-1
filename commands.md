@@ -90,4 +90,8 @@ Found 2 items
 -rw-r--r--   1 cloudera cloudera    1573151 2016-01-11 12:03 BDE/zusatzaufgaben/Kapitel_1_1/mergeExample/FilesToMerge/pg4300.txt
 ```
 
-# Merge fehlt noch #
+Files Mergen
+
+```
+[cloudera@quickstart ~]$ hadoop fs -getmerge -nl BDE/zusatzaufgaben/Kapitel_1_1/mergeExample/FilesToMerge/ BDE/zusatzaufgaben/Kapitel_1_1/mergeExample/output.txt
+```
