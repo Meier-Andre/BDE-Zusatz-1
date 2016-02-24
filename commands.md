@@ -1,10 +1,4 @@
-# Merge von zwei Ordnern
-Ordner1 anlegen
-Ordner2 anlegen
-Ordner1 mit 2 beispieldateien von Gutenberg.org befüllen
-Ordner2 mit 3 beispieldateien von Gutenberg.org befüllen
-Merge Befehl ausführen
-Ergebnis auflisten
+# Merge von zwei Dateien
 
 Ordner erstellen
 
