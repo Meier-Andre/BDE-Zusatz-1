@@ -75,8 +75,8 @@ Dateien in das HDFS legen
 ```
 #!shell
 
-[cloudera@quickstart ~]$ hadoop fs -put pg2701.txt BDE/zusatzaufgaben/Kapitel_1_1/mergeExample/FilesToMerge
-[cloudera@quickstart ~]$ hadoop fs -put pg4300.txt BDE/zusatzaufgaben/Kapitel_1_1/mergeExample/FilesToMerge
+[cloudera@quickstart ~]$ hadoop fs -put pg2701.txt BDE/zusatzaufgaben/Kapitel_1_1/mergeExample/FilesToMerge/
+[cloudera@quickstart ~]$ hadoop fs -put pg4300.txt BDE/zusatzaufgaben/Kapitel_1_1/mergeExample/FilesToMerge/
 ```
 
 Überprüfen, ob die Dateien abgelegt wurden
